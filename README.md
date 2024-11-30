@@ -1,3 +1,10 @@
+<img width="1440" alt="Screenshot 2024-11-30 at 11 53 15 PM" src="https://github.com/user-attachments/assets/27c14c97-2289-42df-bbf9-d51ed4eb1c39">
+<img width="1440" alt="Screenshot 2024-11-30 at 11 53 32 PM" src="https://github.com/user-attachments/assets/11d7fe14-2340-40ad-ab86-1f6a51eedbce">
+<img width="1440" alt="Screenshot 2024-11-30 at 11 55 40 PM" src="https://github.com/user-attachments/assets/58528f45-be51-4f3b-a44c-ff10c437bc62">
+![Uploading Screenshot 2024-11-30 at 11.55.57 PM.png…]()
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
